@@ -1,1 +1,3 @@
-# todo
+# Todo list project
+
+Practice project
